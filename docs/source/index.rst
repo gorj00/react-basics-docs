@@ -1,13 +1,5 @@
-Welcome to Lumache's documentation!
+React Basics Developer Documentation
 ===================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
@@ -18,5 +10,9 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+  react-docs/1-base-features
+  react-docs/2-lists-and-conditionals
+  react-docs/3-styling
+  react-docs/4-lifecycle-hooks
+  react-docs/5-context-api
+  react-docs/6-axios-http-requests
