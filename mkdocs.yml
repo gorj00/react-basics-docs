@@ -1,6 +1,6 @@
 site_name: React Basics Developer Documentation
 theme:
-  name: readthedocs
+  name: material
   highlightjs: true
 plugins:
   - search
